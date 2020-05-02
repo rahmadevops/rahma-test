@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title> mdule2-solution  </title>
+	<link rel="stylesheet" href="gfg.css">
+</head>
+<body>
+	<h1>Our Menu </h1>
+	 <div class="container">
+	 	<div class="row">
+	 		<div class="col-lg-4 col-md-6" >
+	 		<p
+	 		class="p1">chiken</p>
+	 		<section>
+	 			lorem ipsum dolor sit amet, co,secteteur adipiscing
+				elit ,sed do eiusmod tempor incididunt
+				ut labore et dolore magana aliqua.
+				Ut enim ad minim veniam ,quis nostrud
+				exercitation ullamco laboris nisi ut aliquip
+				ex ea commodo consequat .
+	 		</section>
+	 	</div>
+	 	</div>	
+	 </div>
+	  <div class="container">
+	 	<div class="row">
+	 		<div class="col-lg-4 col-md-6" >
+	 		<p
+	 		class="p2">Beef</p>
+	 		<section>
+	 			lorem ipsum dolor sit amet, co,secteteur adipiscing
+				elit ,sed do eiusmod tempor incididunt
+				ut labore et dolore magana aliqua.
+				Ut enim ad minim veniam ,quis nostrud
+				exercitation ullamco laboris nisi ut aliquip
+				ex ea commodo consequat .
+	 		</section>
+	 	</div>
+	 	</div>	
+	 </div>
+	  <div class="container">
+	 	<div class="row">
+	 		<div class="col-lg-4 col-md-6" >
+	 		<p
+	 		class="p3">Suchi</p>
+	 		<section>
+	 			lorem ipsum dolor sit amet, co,secteteur adipiscing
+				elit ,sed do eiusmod tempor incididunt
+				ut labore et dolore magana aliqua.
+				Ut enim ad minim veniam ,quis nostrud
+				exercitation ullamco laboris nisi ut aliquip
+				ex ea commodo consequat .
+	 		</section>
+	 	</div>
+	 	</div>	
+	 </div>
+</body>
+</html>
